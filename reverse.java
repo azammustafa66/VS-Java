@@ -14,10 +14,10 @@ public class reverse {
         }
         System.out.println("The reverse of given number is "+rev);
         if(original==rev) {
-                System.out.println("The given number is palindrome");
+                System.out.println(original + " is a palindrome");
         }
         else {
-            System.out.println("The given number is not palindrome");
+            System.out.println(original +" is not palindrome");
         }
     }
 }

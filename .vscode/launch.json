@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch practise",
+            "request": "launch",
+            "mainClass": "practise",
+            "projectName": "VS Java_e23aa12c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofdigits",
+            "request": "launch",
+            "mainClass": "sumofdigits",
+            "projectName": "VS Java_e23aa12c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "VS Java_e23aa12c"
+        },
+        {
+            "type": "java",
+            "name": "Launch matrixmul",
+            "request": "launch",
+            "mainClass": "matrixmul",
+            "projectName": "VS Java_e23aa12c"
+        },
+        {
+            "type": "java",
+            "name": "Launch transpose",
+            "request": "launch",
+            "mainClass": "transpose",
+            "projectName": "VS Java_e23aa12c"
+        },
+        {
+            "type": "java",
             "name": "Launch bs",
             "request": "launch",
             "mainClass": "bs",
